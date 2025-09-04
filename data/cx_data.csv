@@ -1,0 +1,51 @@
+customer_id,name,age,gender,location,subscription_type,join_date,last_login,total_purchases,avg_order_value,complaint_category,complaint_description,resolution_time_hours,satisfaction_score,support_channel,product_category,issue_severity,resolution_status,employee_id,department
+CX001,Sarah Johnson,28,Female,New York,Premium,2023-01-15,2024-08-29,45,127.50,Billing,Incorrect charge on monthly subscription,24,3,Email,Software,Medium,Resolved,EMP101,Billing
+CX002,Michael Chen,34,Male,San Francisco,Basic,2022-11-20,2024-08-28,23,89.25,Technical,App crashes during video calls,72,2,Phone,Software,High,Resolved,EMP205,Technical Support
+CX003,Emily Rodriguez,41,Female,Los Angeles,Enterprise,2021-05-10,2024-08-30,156,245.80,Feature Request,Need integration with Slack,48,4,Chat,Software,Low,In Progress,EMP150,Product Development
+CX004,David Kim,29,Male,Seattle,Premium,2023-03-22,2024-08-27,67,156.90,Billing,Payment method declined,12,4,Phone,Software,Medium,Resolved,EMP101,Billing
+CX005,Jessica Williams,52,Female,Chicago,Basic,2022-08-14,2024-08-26,34,76.40,Technical,Cannot access dashboard,36,3,Email,Software,Medium,Resolved,EMP210,Technical Support
+CX006,Robert Taylor,38,Male,Boston,Enterprise,2021-12-03,2024-08-29,203,312.45,Account,Need to upgrade storage limit,6,5,Chat,Software,Low,Resolved,EMP175,Account Management
+CX007,Amanda Brown,26,Female,Miami,Premium,2023-07-08,2024-08-30,89,134.20,Technical,Slow loading times,48,2,Phone,Software,High,Resolved,EMP205,Technical Support
+CX008,Christopher Davis,45,Male,Denver,Basic,2022-04-17,2024-08-25,19,65.30,Billing,Subscription auto-renewal issue,18,3,Email,Software,Medium,Resolved,EMP103,Billing
+CX009,Lisa Anderson,33,Female,Portland,Enterprise,2021-09-25,2024-08-28,178,289.60,Feature Request,Custom reporting features needed,96,4,Chat,Software,Medium,In Progress,EMP150,Product Development
+CX010,James Wilson,31,Male,Austin,Premium,2023-02-14,2024-08-29,78,145.75,Technical,Mobile app sync issues,60,2,Phone,Software,High,Resolved,EMP220,Technical Support
+CX011,Maria Garcia,39,Female,Phoenix,Basic,2022-10-05,2024-08-24,28,82.15,Account,Password reset not working,4,4,Chat,Software,Low,Resolved,EMP180,Account Management
+CX012,Kevin Martinez,27,Male,San Diego,Premium,2023-05-30,2024-08-30,56,118.90,Billing,Proration calculation error,30,3,Email,Software,Medium,Resolved,EMP101,Billing
+CX013,Rachel Thompson,44,Female,Las Vegas,Enterprise,2021-07-12,2024-08-27,234,356.80,Technical,API rate limiting issues,84,3,Phone,Software,High,Resolved,EMP205,Technical Support
+CX014,Daniel Lee,36,Male,Nashville,Basic,2022-12-18,2024-08-26,41,71.25,Feature Request,Dark mode for mobile app,120,4,Chat,Software,Low,In Progress,EMP155,Product Development
+CX015,Nicole White,30,Female,Atlanta,Premium,2023-04-11,2024-08-29,92,139.40,Technical,Email notifications not working,42,3,Email,Software,Medium,Resolved,EMP210,Technical Support
+CX016,Ryan Jackson,42,Male,Minneapolis,Enterprise,2021-11-08,2024-08-28,187,298.30,Account,Multi-user access setup,8,5,Chat,Software,Low,Resolved,EMP175,Account Management
+CX017,Stephanie Miller,25,Female,Tampa,Basic,2023-08-20,2024-08-25,15,58.70,Billing,Trial period confusion,16,3,Phone,Software,Medium,Resolved,EMP103,Billing
+CX018,Brandon Moore,37,Male,Kansas City,Premium,2022-06-25,2024-08-30,103,162.85,Technical,Data export functionality broken,54,2,Email,Software,High,Resolved,EMP220,Technical Support
+CX019,Melissa Clark,48,Female,Orlando,Enterprise,2021-03-17,2024-08-27,267,398.50,Feature Request,Advanced analytics dashboard,144,4,Chat,Software,Medium,In Progress,EMP150,Product Development
+CX020,Justin Rodriguez,32,Male,Cleveland,Basic,2022-09-12,2024-08-24,37,79.60,Technical,Login authentication errors,28,3,Phone,Software,Medium,Resolved,EMP210,Technical Support
+CX021,Ashley Lewis,29,Female,Sacramento,Premium,2023-06-05,2024-08-29,71,128.45,Billing,Discount code not applied,20,4,Email,Software,Medium,Resolved,EMP101,Billing
+CX022,Tyler Walker,40,Male,Pittsburgh,Enterprise,2021-08-30,2024-08-28,198,324.70,Account,Security settings configuration,12,5,Chat,Software,Low,Resolved,EMP180,Account Management
+CX023,Brittany Hall,35,Female,Cincinnati,Basic,2022-11-07,2024-08-26,22,68.90,Technical,File upload size limitations,36,3,Phone,Software,Medium,Resolved,EMP205,Technical Support
+CX024,Jordan Allen,43,Male,St. Louis,Premium,2023-01-28,2024-08-30,85,151.20,Feature Request,Bulk operations support,72,4,Email,Software,Medium,In Progress,EMP155,Product Development
+CX025,Samantha Young,26,Female,Detroit,Enterprise,2021-10-14,2024-08-27,156,287.90,Technical,Performance issues with large datasets,66,2,Chat,Software,High,Resolved,EMP220,Technical Support
+CX026,Andrew King,38,Male,Columbus,Basic,2022-07-03,2024-08-25,31,74.35,Billing,Refund request processing,48,3,Phone,Software,Medium,Resolved,EMP103,Billing
+CX027,Kimberly Wright,46,Female,Charlotte,Premium,2023-03-16,2024-08-29,94,142.60,Technical,Integration with third-party tools,90,3,Email,Software,High,Resolved,EMP205,Technical Support
+CX028,Matthew Lopez,33,Male,Indianapolis,Enterprise,2021-06-21,2024-08-28,189,301.25,Account,User permissions management,10,5,Chat,Software,Low,Resolved,EMP175,Account Management
+CX029,Lauren Hill,31,Female,San Antonio,Basic,2022-12-09,2024-08-24,26,71.80,Feature Request,Mobile offline functionality,108,4,Phone,Software,Medium,In Progress,EMP150,Product Development
+CX030,Nicholas Scott,39,Male,Fort Worth,Premium,2023-02-07,2024-08-30,76,133.95,Technical,Backup and restore issues,45,3,Email,Software,Medium,Resolved,EMP210,Technical Support
+CX031,Heather Green,47,Female,Jacksonville,Enterprise,2021-04-05,2024-08-27,223,367.40,Billing,Invoice discrepancies,36,3,Chat,Software,Medium,Resolved,EMP101,Billing
+CX032,Eric Adams,28,Male,Memphis,Basic,2023-09-11,2024-08-26,18,62.45,Technical,Browser compatibility issues,24,3,Phone,Software,Medium,Resolved,EMP220,Technical Support
+CX033,Megan Baker,34,Female,Baltimore,Premium,2022-05-18,2024-08-29,88,148.30,Account,Profile information update,8,4,Email,Software,Low,Resolved,EMP180,Account Management
+CX034,Jonathan Gonzalez,41,Male,Louisville,Enterprise,2021-09-02,2024-08-28,201,335.85,Feature Request,Custom workflow automation,156,4,Chat,Software,High,In Progress,EMP155,Product Development
+CX035,Tiffany Nelson,30,Female,Milwaukee,Basic,2022-10-23,2024-08-25,33,77.20,Technical,Search functionality not working,32,3,Phone,Software,Medium,Resolved,EMP205,Technical Support
+CX036,Gregory Carter,36,Male,Albuquerque,Premium,2023-04-29,2024-08-30,82,137.65,Billing,Tax calculation errors,22,3,Email,Software,Medium,Resolved,EMP103,Billing
+CX037,Crystal Mitchell,42,Female,Tucson,Enterprise,2021-11-16,2024-08-27,167,294.15,Technical,Database connection timeouts,78,2,Chat,Software,High,Resolved,EMP210,Technical Support
+CX038,Sean Perez,29,Male,Fresno,Basic,2023-07-24,2024-08-24,21,66.85,Account,Account deactivation request,6,4,Phone,Software,Low,Resolved,EMP175,Account Management
+CX039,Vanessa Roberts,37,Female,Mesa,Premium,2022-08-31,2024-08-29,95,144.50,Feature Request,Enhanced security features,84,4,Email,Software,Medium,In Progress,EMP150,Product Development
+CX040,Marcus Turner,45,Male,Virginia Beach,Enterprise,2021-05-27,2024-08-28,245,389.20,Technical,Load balancing issues,96,2,Chat,Software,High,Resolved,EMP220,Technical Support
+CX041,Danielle Phillips,32,Female,Oakland,Basic,2022-11-14,2024-08-26,29,73.60,Billing,Subscription downgrade process,14,4,Phone,Software,Medium,Resolved,EMP101,Billing
+CX042,Carlos Campbell,38,Male,Minneapolis,Premium,2023-01-09,2024-08-30,79,141.85,Technical,Calendar sync problems,38,3,Email,Software,Medium,Resolved,EMP205,Technical Support
+CX043,Natalie Parker,43,Female,Wichita,Enterprise,2021-08-15,2024-08-27,178,308.95,Account,Billing address changes,5,5,Chat,Software,Low,Resolved,EMP180,Account Management
+CX044,Trevor Evans,27,Male,New Orleans,Basic,2023-06-12,2024-08-25,24,69.30,Feature Request,Voice command integration,132,4,Phone,Software,Medium,In Progress,EMP155,Product Development
+CX045,Courtney Edwards,35,Female,Cleveland,Premium,2022-09-28,2024-08-29,86,146.75,Technical,Notification settings not saving,26,3,Email,Software,Medium,Resolved,EMP210,Technical Support
+CX046,Blake Collins,40,Male,Tampa,Enterprise,2021-07-08,2024-08-28,212,348.60,Billing,Enterprise contract renewal,72,4,Chat,Software,Medium,Resolved,EMP103,Billing
+CX047,Alexis Stewart,31,Female,Honolulu,Basic,2022-12-21,2024-08-24,35,75.95,Technical,Geolocation services not working,44,3,Phone,Software,Medium,Resolved,EMP220,Technical Support
+CX048,Cameron Sanchez,44,Male,Reno,Premium,2023-03-05,2024-08-30,91,152.40,Account,Two-factor authentication setup,7,5,Email,Software,Low,Resolved,EMP175,Account Management
+CX049,Morgan Morris,28,Female,Spokane,Enterprise,2021-10-11,2024-08-27,189,316.75,Feature Request,Real-time collaboration tools,168,4,Chat,Software,High,In Progress,EMP150,Product Development
+CX050,Austin Rogers,36,Male,Boise,Basic,2022-06-08,2024-08-26,27,72.15,Technical,PDF generation errors,40,3,Phone,Software,Medium,Resolved,EMP205,Technical Support
